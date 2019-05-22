@@ -1,0 +1,23 @@
+body{
+
+background-color:#fff;
+line-height: 1.6em;
+}
+h1,h2,h3 {
+  color: blue;
+  text-align: center;
+  font-style: italic;
+  text-transform: uppercase;
+}
+p{
+font-family:sans-serif;
+
+
+ul{
+line-height: 60px;
+}
+strong{
+font-weight: 30px;
+font-size: 20%;
+
+}
