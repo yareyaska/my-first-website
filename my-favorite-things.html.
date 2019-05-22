@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>my first webpage!</title>
+</head>
+<body>
+	<h1>My favourite things</h1>
+    
+      <ul>
+      <li>john maina</li>
+      <li>yussuf hussein</li>
+      <li>mohamed noor</li>
+      <li>henry john</li>
+    </ul>
+
+    <ol>
+      <li>ugali</li>
+      <li>fish</li>
+      <li>chicken</li>
+      <li>chips</li>
+    </ol>
+</body>
+</html>
